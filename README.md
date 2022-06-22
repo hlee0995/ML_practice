@@ -17,6 +17,6 @@ Dataset providers:
 - UCI : https://archive.ics.uci.edu/ml/
 
 
-[Tune Hyperparameters for Classification Machine Learning Algorithms]([Tune Hyperparameters for Classification Machine Learning Algorithms](https://machinelearningmastery.com/hyperparameters-for-classification-machine-learning-algorithms/))
+[Tune Hyperparameters for Classification Machine Learning Algorithms](https://machinelearningmastery.com/hyperparameters-for-classification-machine-learning-algorithms/))
 
 [Difference in seaborn vs pandas plot](https://www.geeksforgeeks.org/difference-between-matplotlib-vs-seaborn/)
